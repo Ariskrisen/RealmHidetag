@@ -1,0 +1,7 @@
+name: RealmHidetag
+version: ${project.version}
+main: ru.areshkin.realm.RealmHidetag
+api-version: 1.20
+depend: [ProtocolLib, PlaceholderAPI, Towny]
+author: Areshkin
+description: Плагин для скрытия ников игроков с интеграцией Towny и PlaceholderAPI
